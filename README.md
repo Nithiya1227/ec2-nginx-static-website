@@ -8,6 +8,9 @@ This project demonstrates how to host a static website on an AWS EC2 instance us
 - Nginx
 - SSH
 
+### Architecture
+![Architecture](architecture-diagram.png)
+
 ## Project Steps
 1. Launched an EC2 instance (Amazon Linux 2)
 2. Configured security groups (SSH & HTTP)
